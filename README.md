@@ -2,7 +2,7 @@
 
 <h3>I am a full stack developer who loves programming, challenges and animals.</h3>
 
-- 🔭 my last project was **Clothing Store**
+- 🔭 my last project was **AI VTUBER**
 
 - 📫 How to reach me **ezeelmartinez@gmail.com**
 
