@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I am a full stack developer who loves programming, challenges and animals.</h3>
+<h3>I am a full stack developer who loves programming and challenges.</h3>
 
 - 🔭 my last project was **AIVTUBER**
 
