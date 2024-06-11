@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<h3>I am a full stack developer who loves programming and challenges.</h3>
+<h3>I am a Full Stack Developer who loves programming and challenges.</h3>
 
 - 🔭 my last project was **AIVTUBER**
 
 - 📫 How to reach me **ezeelmartinez@gmail.com**
 
-- ⚡ Fun fact **I consider myself a fun person**
+- ⚡ Portfolio **https://portfolio-ezequiel.vercel.app/**
 
   ### SOCIAL:
 <p align="left">
